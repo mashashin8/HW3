@@ -8,6 +8,6 @@
 * Ссылка на форму:
 https://goo.gl/forms/m6X1rqJcjoYjTTNq2
 * Ссылка на таблицу:
-
+https://docs.google.com/spreadsheets/d/13aPWu8x8w7JxmTkukxIQ7BlHkLgXKJXjMrTkuGT-ey8/edit?usp=sharing
 
 
